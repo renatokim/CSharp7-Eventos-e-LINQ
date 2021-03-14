@@ -20,7 +20,8 @@ namespace NotaFiscal
             nf.OnEmitir += EmitirSinal;
             nf.OnEmitir += EmitirSinal;
 
-            //nf.Emitir();
+            nf.Emitir();
+            nf.OnEmitir(null, new EventArgs());
         }
 
         public static void EnviarEmail(object sender, EventArgs args)
