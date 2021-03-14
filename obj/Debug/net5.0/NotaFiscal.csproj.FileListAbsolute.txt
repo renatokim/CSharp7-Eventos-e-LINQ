@@ -1,0 +1,16 @@
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/NotaFiscal
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/NotaFiscal.deps.json
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/NotaFiscal.runtimeconfig.json
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/NotaFiscal.runtimeconfig.dev.json
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/NotaFiscal.dll
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/ref/NotaFiscal.dll
+/home/renato/Downloads/core/NotaFiscal/bin/Debug/net5.0/NotaFiscal.pdb
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.csprojAssemblyReference.cache
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.AssemblyInfoInputs.cache
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.AssemblyInfo.cs
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.csproj.CoreCompileInputs.cache
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.dll
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/ref/NotaFiscal.dll
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.pdb
+/home/renato/Downloads/core/NotaFiscal/obj/Debug/net5.0/NotaFiscal.genruntimeconfig.cache
