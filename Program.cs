@@ -12,9 +12,6 @@ namespace NotaFiscal
                 Console.WriteLine(randon);
             }
 
-
-
-
             var nf = new NotaFiscalClass();
 
             nf.OnEmitir += EnviarEmail;
@@ -24,12 +21,6 @@ namespace NotaFiscal
             nf.Emitir();
 
             //nf.OnEmitir();
-
-
-
-
-
-
         }
 
         public static void EnviarEmail(object sender, EventArgs args)
