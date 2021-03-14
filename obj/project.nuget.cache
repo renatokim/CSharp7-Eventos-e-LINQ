@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YtiBv3xqgS2z1HHF4i9Dodx6VMNWjIokne9hcF8O+3IXc8xCPHC3gW4OXqzv9ZGyc0SADTr1fCUuAvLxRxW6RQ==",
+  "dgSpecHash": "CNH4nnqRhIsMROIbIp/TKWeSPk4m7i7iFa0TW06SxXug9L/8itnK2hLBXNO8qakcBeDIapeKFMm55B7Zyjy3Ng==",
   "success": true,
-  "projectFilePath": "/home/renato/Downloads/core/NotaFiscal.1/NotaFiscal.csproj",
+  "projectFilePath": "/home/renato/Downloads/core/CSharp7-Eventos-e-LINQ/NotaFiscal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

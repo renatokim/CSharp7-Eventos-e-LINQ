@@ -6,11 +6,13 @@ namespace NotaFiscal
     {
         static void Main(string[] args)
         {
+            /*
             for (int i = 0; i < 16; i++)
             {
                 var randon = new Random().Next(8);
                 Console.WriteLine(randon);
             }
+            */
 
             var nf = new NotaFiscalClass();
 
@@ -18,9 +20,7 @@ namespace NotaFiscal
             nf.OnEmitir += EmitirSinal;
             nf.OnEmitir += EmitirSinal;
 
-            nf.Emitir();
-
-            //nf.OnEmitir();
+            //nf.Emitir();
         }
 
         public static void EnviarEmail(object sender, EventArgs args)

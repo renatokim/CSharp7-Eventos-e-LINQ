@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/renato/Downloads/core/NotaFiscal.1/NotaFiscal.csproj",
+      "projectUniqueName": "/home/renato/Downloads/core/CSharp7-Eventos-e-LINQ/NotaFiscal.csproj",
       "projectName": "NotaFiscal",
-      "projectPath": "/home/renato/Downloads/core/NotaFiscal.1/NotaFiscal.csproj",
+      "projectPath": "/home/renato/Downloads/core/CSharp7-Eventos-e-LINQ/NotaFiscal.csproj",
       "packagesPath": "/home/renato/.nuget/packages/",
-      "outputPath": "/home/renato/Downloads/core/NotaFiscal.1/obj/",
+      "outputPath": "/home/renato/Downloads/core/CSharp7-Eventos-e-LINQ/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/renato/.nuget/NuGet/NuGet.Config"
