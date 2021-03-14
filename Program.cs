@@ -21,6 +21,7 @@ namespace NotaFiscal
             nf.OnEmitir += EmitirSinal;
 
             nf.Emitir();
+            
             // nf.OnEmitir(null, new EventArgs());
         }
 
