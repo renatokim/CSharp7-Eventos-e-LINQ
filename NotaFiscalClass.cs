@@ -9,7 +9,7 @@ namespace NotaFiscal
         public void Emitir()
         {
             // teste commit
-            // teste get 3.0
+            // teste get 4.0
             if (OnEmitir != null)
             {
                 OnEmitir(this, new EventArgs());
